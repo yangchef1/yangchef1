@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=300&section=header&text=HeeChul%20Yang&fontSize=90&fontColor=FFFFFF)
 
-</div>  &
+</div>  
 
 <div align="center">
   
