@@ -6,7 +6,6 @@
 
 </div>  
 
-***
 # Tech
 
 <div align="center">
