@@ -4,7 +4,7 @@
 
 </div>  
 
-# Tech
+# Interest
 
 <div align="center">
   
