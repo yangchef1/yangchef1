@@ -9,6 +9,14 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white" />
+<img src="https://img.shields.io/badge/Junit-25A162?style=flat&logo=Junit5&logoColor=white" />
+  
+</br>
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
   
 </br>
   
@@ -36,4 +44,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddkd1489)](https://solved.ac/wnddkd1489/)
 
+### 🌱About Me
+
+[Portfolio](https://sun-snapdragon-0dc.notion.site/Yang-HeeChul-9dfd0d50a6574b2fb9889f9ca640e519?pvs=4)
 </div>
