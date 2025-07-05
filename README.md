@@ -47,6 +47,6 @@
 ## 🌎 Open Source Contribution
 
 ### Spring Data MongoDB
-- PR: [#4968 – Allow customizing order for AuditingEntityCallback and ValidatingEntityCallback](https://github.com/spring-projects/spring-data-mongodb/pull/4968)
+PR: [#4968 – Allow customizing order for AuditingEntityCallback and ValidatingEntityCallback](https://github.com/spring-projects/spring-data-mongodb/pull/4968)
 
 </div>
