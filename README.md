@@ -1,8 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=220&section=header&text=HeeChul%20Yang&fontSize=90&fontColor=FFFFFF) 
-
-
 ## 📚 Interest
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -35,13 +32,16 @@
 </br>
 </br>
 
-## 💻 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddkd1489)](https://solved.ac/wnddkd1489/)
-
 ## 🌎 Open Source Contribution
 
 ### Spring Data MongoDB
 PR: [#4968 – Allow customizing order for AuditingEntityCallback and ValidatingEntityCallback](https://github.com/spring-projects/spring-data-mongodb/pull/4968)
+
+</br>
+</br>
+
+## 💻 Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddkd1489)](https://solved.ac/wnddkd1489/)
 
 </div>
