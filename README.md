@@ -58,6 +58,9 @@
 ### Spring Data MongoDB
 PR: [#4968 – Allow customizing order for AuditingEntityCallback and ValidatingEntityCallback](https://github.com/spring-projects/spring-data-mongodb/pull/4968)
 
+### Gradle
+PR: [#34419 - Correct file labels and extensions in single-project layout example](https://github.com/gradle/gradle/pull/34419)
+
 </br>
 </br>
 
