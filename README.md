@@ -29,11 +29,4 @@ PR: [#4968 – Allow customizing order for AuditingEntityCallback and Validating
 ### Gradle
 PR: [#34419 - Correct file labels and extensions in single-project layout example](https://github.com/gradle/gradle/pull/34419)
 
-</br>
-</br>
-
-## 💻 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddkd1489)](https://solved.ac/wnddkd1489/)
-
 </div>
