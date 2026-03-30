@@ -1,6 +1,8 @@
 <div align="center">
 
 ## 🔥 Experience
+
+#### **Microsoft Korea, Software Solution Engineer Internship** (2026.01 ~ 2026.03)
   
 ##### **SW 마에스트로 16기 연수생** (2025.04 ~ 2025.11)
 
